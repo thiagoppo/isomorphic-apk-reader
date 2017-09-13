@@ -1,19 +1,19 @@
 {
-  "name": "@thiagoppo/isomorphic-pkg-reader",
+  "name": "isomorphic-apk-reader",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiagoppo/isomorphic-pkg-reader.git"
+    "url": "git+https://github.com/thiagoppo/isomorphic-apk-reader.git"
   },
   "scripts": {
     "start": "node ./example/webpack.config.js & node ./example/server"
   },
-  "version": "1.1.24",
+  "version": "1.1.25",
   "author": {
     "name": "thiagoppo@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/thiagoppo/isomorphic-pkg-reader/issues"
+    "url": "https://github.com/thiagoppo/isomorphic-apk-reader/issues"
   },
   "dependencies": {
     "buffer": "^5.0.7",
@@ -37,7 +37,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "directories": {},
-  "homepage": "https://github.com/thiagoppo/isomorphic-pkg-reader#readme",
+  "homepage": "https://github.com/thiagoppo/isomorphic-apk-reader#readme",
   "keywords": [
     "Javascript",
     "NodeJS",
