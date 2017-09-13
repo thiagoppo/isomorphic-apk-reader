@@ -1,19 +1,19 @@
 {
-  "name": "@tencent/isomorphic-pkg-reader",
+  "name": "@thiagoppo/isomorphic-pkg-reader",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TencentWSRD/isomorphic-pkg-reader.git"
+    "url": "git+https://github.com/thiagoppo/isomorphic-pkg-reader.git"
   },
   "scripts": {
     "start": "node ./example/webpack.config.js & node ./example/server"
   },
-  "version": "1.1.23",
+  "version": "1.1.24",
   "author": {
-    "name": "xiaoyuze88@gmail.com"
+    "name": "thiagoppo@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/TencentWSRD/isomorphic-pkg-reader/issues"
+    "url": "https://github.com/thiagoppo/isomorphic-pkg-reader/issues"
   },
   "dependencies": {
     "buffer": "^5.0.7",
@@ -37,7 +37,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "directories": {},
-  "homepage": "https://github.com/TencentWSRD/isomorphic-pkg-reader#readme",
+  "homepage": "https://github.com/thiagoppo/isomorphic-pkg-reader#readme",
   "keywords": [
     "Javascript",
     "NodeJS",
@@ -51,8 +51,8 @@
   "license": "MIT",
   "maintainers": [
     {
-      "email": "xiaoyuze88@gmail.com",
-      "name": "xiaoyuze88"
+      "email": "thiagoppo@gmail.com",
+      "name": "thiagoppo"
     }
   ]
 }
